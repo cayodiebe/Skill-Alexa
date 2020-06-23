@@ -1,0 +1,39 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "a partida",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "jogadores",
+            "smurf",
+            "tem smurf",
+            "tem jogador bom la",
+            "smurfs",
+            "ha smurfs no time"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}

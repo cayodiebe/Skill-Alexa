@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:652721721870:function:2e2279ad-0e2f-44b5-ae19-6c5dccb7ccf8:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "pt-BR": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "SkillPaula",
+          "summary": "Sample Short Description"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
